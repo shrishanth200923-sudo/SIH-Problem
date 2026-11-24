@@ -1,9 +1,14 @@
 # SIH-Problem
 
-**Submitted by:** Shrishanth S
-**Department:** AIML (Artificial Intelligence and Machine Learning)
+# SIH-Problem
+
+**Name:** Shrishanth S
+
+**Department:** AIML
+
 **Year:** 1st Year
 
+---
 ---
 
 ## Problem Statement:
