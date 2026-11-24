@@ -48,11 +48,20 @@ KisanDirect is a mobile and web platform that connects farmers and FPOs directly
 - Transparent pricing and faster payments help farmers financially.
 
 ## Feasibility and Scalability:
-It starts with one district as a pilot, working with local FPOs. It then scales to other states using existing digital infrastructure (UPI, eNAM, smartphones). The revenue model is a small 2-3% service fee, far below the commission middlemen take.
+It starts with one district as a pilot, working with local FPOs. It then scales to other states using existing digital infrastructure (UPI, eNAM, smartphones). The revenue model is a sma:
+ll 2-3% service fee, far below the commission middlemen take.
+
+
+##Research and References:
+   1. **Farmers' share of consumer price:** [RBI Bulletin: Mark-ups by intermediaries in agricultural markets](https://www.rbi.org.in/scripts/bs_viewbulletin.aspx?id=18527)
+2. **Post-harvest losses:** [Lok Sabha Q.1872: Spoilage of fruits and vegetables](https://eparlib.nic.in/bitstream/123456789/2501891/1/AU1872.pdf)
+3. **Mandi price data (AI fair-price engine):** [Agmarknet](https://agmarknet.gov.in/)
+4. **eNAM (National Agriculture Market):** [eNAM Portal](https://enam.gov.in/web/)
+5. **FPOs (Farmer Producer Organisations):** [PIB Factsheet: 10,000 FPOs Scheme](https://pib.gov.in/FactsheetDetails.aspx?Id=148588)
+6. **Secure payments:** [Razorpay Route Documentation](https://razorpay.com/docs/payments/route/)
+7. **Price prediction model:** [XGBoost Documentation](https://xgboost.readthedocs.io)
+8. **Weather data:** [Open-Meteo](https://open-meteo.com)
+9. **Maps and routing:** [OpenStreetMap](https://www.openstreetmap.org)
 
 ---
 
-## Team
-| Name | Department | Year |
-|---|---|---|
-| Shrishanth S | AIML | 1st Year |
