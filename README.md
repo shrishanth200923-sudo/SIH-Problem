@@ -1,5 +1,11 @@
 # SIH-Problem
 
+**Submitted by:** Shrishanth S
+**Department:** AIML (Artificial Intelligence and Machine Learning)
+**Year:** 1st Year
+
+---
+
 ## Problem Statement:
 Multiple intermediaries reduce farmers' earnings and increase consumer prices.
 
@@ -37,5 +43,11 @@ KisanDirect is a mobile and web platform that connects farmers and FPOs directly
 - Transparent pricing and faster payments help farmers financially.
 
 ## Feasibility and Scalability:
-It starts with one district as a pilot, working with local FPOs. It then scales to other states using existing digital infrastructure (UPI, eNAM, smartphones). The revenue model is a small 2-3% service fee, far below the commission middlemen take.nt on delivery, so there are no payment delays.
-- **Shared logistics:** Pickups from nearby farmers are combined into one route, which lowers
+It starts with one district as a pilot, working with local FPOs. It then scales to other states using existing digital infrastructure (UPI, eNAM, smartphones). The revenue model is a small 2-3% service fee, far below the commission middlemen take.
+
+---
+
+## Team
+| Name | Department | Year |
+|---|---|---|
+| Shrishanth S | AIML | 1st Year |
